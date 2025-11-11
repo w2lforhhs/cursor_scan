@@ -1,0 +1,14 @@
+{
+  "pc_name": "EXAMPLE-PC",
+  "timestamp": "20251111_143022",
+  "cursor_installed": true,
+  "privacy_mode": "privacy",
+  "model_keys": {
+    "use_claude_key": false,
+    "use_google_key": false,
+    "use_openai_key": false,
+    "use_azure": false,
+    "use_bedrock": false
+  },
+  "mcp_servers": ["weather-service", "sequential-thinking", "mcp-somefunc"]
+}
